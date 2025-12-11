@@ -74,6 +74,5 @@ Ranges:
 
 ## License
 
-GNU GPLv3 — see the userscript header. © IceCuBear
-
-This project is open source. Contributions and pull requests are welcome.
+Licensed under the GNU GPLv3.  
+Contributions and pull requests are welcome.
