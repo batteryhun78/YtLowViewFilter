@@ -2,7 +2,7 @@
 // @name         YouTube View Filter
 // @namespace    https://github.com/IceCuBear/YtLowViewFilter
 // @author       IceCuBear
-// @license      GNU GPLv3
+// @license      GNU AGPLv3
 // @version      2025.12.11.7
 // @description  Filter YouTube items by minimum views, Members‑only, Auto‑dubbed, and LIVE status. Includes a compact, draggable UI and stats.
 // @downloadURL  https://raw.githubusercontent.com/IceCuBear/YtLowViewFilter/refs/heads/main/YtLowViewFilter.user.js
